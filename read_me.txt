@@ -1,9 +1,6 @@
 
 Programming Language Used :- Python
 
-Dataset :- http://labrosa.ee.columbia.edu/millionsong/sites/default/files/challenge/train_triplets.txt.zip
-(It can be downloaded from the above link, it is a 3 GB zip file)
-
 Algorithms :- In total there are three algorithms,
 
 	Model Based :- 
