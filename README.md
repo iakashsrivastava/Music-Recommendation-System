@@ -1,12 +1,12 @@
 # Music-Recommendation-System
 
 Algorithms :- In total there are three algorithms,
-
-	Model Based :- run CF_run.py, the output of will be shown in console
 	
 	User Based :- run user_based_cf.py , the output will be generated in User_based_output.txt file 
 
 	Song Based :- run song_based_cf.py , the output will be generated in Song_based_output.txt file
+	
+	Model Based :- run CF_run.py, the output of will be shown in console
 	
 For quick overview, refer to slides :- Music Recommendation Systems.pptx
 
