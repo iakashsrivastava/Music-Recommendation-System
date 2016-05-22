@@ -4,7 +4,7 @@ import numpy as np
 
 
 components = 10
-pruning = True # True for pruned dataset, False for the whole dataset
+pruning = False # True for pruned dataset, False for the whole dataset
 
 tr = ""
 
@@ -23,7 +23,7 @@ if pruning:
     song_counter=297053  #unpruned: 384546
     dataset = "pruned"
 else:
-    tr = 'train_triplets_new.txt'    
+    tr = '"train_triplets.txt'    
     n_triplets = 48373586
     user_counter= 1019318 
     song_counter= 384546
