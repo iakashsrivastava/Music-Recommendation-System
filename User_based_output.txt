@@ -1,0 +1,14 @@
+
+MAE for fold 0 -> 0.243529822689
+RMSE for fold 0 -> 0.596605362373
+MAE for fold 1 -> 0.567550430553
+RMSE for fold 1 -> 0.890350077185
+MAE for fold 2 -> 0.658127978818
+RMSE for fold 2 -> 0.937102981371
+MAE for fold 3 -> 0.605669292441
+RMSE for fold 3 ->  0.875636632429
+MAE for fold 4 -> 0.364031787629
+RMSE for fold 4 -> 0.686016554056
+
+Average MAE after 5 folds -> 0.487781862426
+Average RMSE after 5 folds -> 0.7971423214828
